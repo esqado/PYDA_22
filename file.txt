@@ -1,5 +1,1 @@
-sdfgsdfgdf
-
-
-asdfasdfas
-23452345234523452345234
+print("Hello world")
